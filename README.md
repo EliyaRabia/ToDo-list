@@ -32,6 +32,6 @@ and responsible by allowing you to keep track of your assignments.
 - cd space and drag the folder that you made and enter.
 - npm i 
 - nodemon index.js
-  After that open your Chrome and write in the URL: localhost:3000
+  After that open your Chrome and write in the URL: localhost:3000 <br/>
   enjoy:)
 
