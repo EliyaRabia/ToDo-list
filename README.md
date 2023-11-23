@@ -1,6 +1,3 @@
-# ToDo-list
-We all forget to do things, so we can all use a todo list
-
 # About:
 This site will help you be more organized, organized,
 and responsible by allowing you to keep track of your assignments.
