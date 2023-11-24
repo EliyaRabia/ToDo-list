@@ -13,7 +13,7 @@ and responsible by allowing you to keep track of your assignments.
 - Continue clicking Next until you reach this screen. Your superuser username is postgres and you need to set a password.
   Make sure you write this password down. We will need this later to access our database.
 - Grouping all the files above into one folder.
-- index.js in vscode and change the password in the client to your password from pgAdmin download.
+- open index.js in vscode and change the password in the client to your password from pgAdmin download.
 
 # DataBase:
 - open paAdmin create a DataBase called "permalist" then, click on "Query Tool".
