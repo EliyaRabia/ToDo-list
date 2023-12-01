@@ -14,7 +14,7 @@ and responsible by allowing you to keep track of your assignments.
   Make sure you write this password down. We will need this later to access our database.
 - Grouping all the files above into one folder.
 - open index.js in vscode and change the password in the client to your password from pgAdmin download.
-- - Download Node Windows installer from the https://nodejs.org/en
+- Download Node Windows installer from the https://nodejs.org/en
 - Choose the recommended LTS version.
 
 # DataBase:
