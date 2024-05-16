@@ -1,6 +1,16 @@
 # About:
-This site will help you be more organized, organized,
-and responsible by allowing you to keep track of your assignments.
+This app is designed to help you be more responsible, and organized, By doing so you can keep track of tasks, and other important things more visually.
+
+# Insturctions
+You can simply follow, add, edit, and delete your tasks.
+## Add task
+In the taskbar where is written "new Item" you can write your new task and then click on the plus sign and the new task will display on the screen.
+
+## Edit and delete
+To edit or delete you can  click on the pencil symbol then you will be able to rewrite your task or delete it.
+
+## Follow your tasks
+To be able to follow your progression you can click on the check box to sign for yourself that this task has been done.
 
 <img width="500" alt="Screenshot 2023-11-23 180608" src="https://github.com/EliyaRabia/ToDo-list/assets/87569799/21c954b3-7c3f-4f76-ab5f-00aa357e60ef">
 
